@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeConverter", "VolumeConverter\VolumeConverter.csproj", "{4E50DC98-2C2D-48E6-A1D9-8EFE8020D7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E50DC98-2C2D-48E6-A1D9-8EFE8020D7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E50DC98-2C2D-48E6-A1D9-8EFE8020D7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E50DC98-2C2D-48E6-A1D9-8EFE8020D7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E50DC98-2C2D-48E6-A1D9-8EFE8020D7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {706F8827-EC9A-49C8-AECC-A4746C5A4F46}
+	EndGlobalSection
+EndGlobal
